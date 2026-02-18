@@ -1,4 +1,17 @@
 # Printing_service
+# [Project Name] - Deployment Version
+
+> **📢 Deployment Note:** This repository is a dedicated **production-ready version** of a collaborative project. I have independently configured this repository to manage the final deployment and hosting on **Vercel** to ensure a high-performance live preview.
+
+---
+
+## Live Links
+*   **Live Website:** https://printing-service-fyzs94rt8-steven-nguyens-projects-79e47d46.vercel.app/account_signin1.html
+*   **Video Walkthrough:** [INSERT VIDEO LINK OR "N/A"]
+*   **Original Source (Group Repo):** https://github.com/NguynHuuThanh/SE-Group-7.git
+
+---
+
 Log in/ Log out Page:
 <img width="1168" height="580" alt="image" src="https://github.com/user-attachments/assets/a07a375a-e486-49ff-a884-6f27303deb85" />
 <img width="1168" height="582" alt="image" src="https://github.com/user-attachments/assets/05a64f6b-c7a8-45a7-8f79-f80ac2718e74" />
